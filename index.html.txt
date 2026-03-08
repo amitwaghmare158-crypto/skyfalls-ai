@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Skyfalls AI</title>
+</head>
+
+<body>
+<h1>🚀 Skyfalls AI</h1>
+<p>Your AI website is live.</p>
+</body>
+
+</html>
